@@ -1,0 +1,12 @@
+{
+    "authors":
+    [],
+    "jcmp_dependencies": [
+      "chat",
+      "command-manager"
+    ],
+    "license":"MIT",
+    "main":"",
+    "name":"railDeCake-package",
+    "version":"1.0.0"
+}
